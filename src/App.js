@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://media.istockphoto.com/id/1492870105/photo/world-globe-planet-earth-map-sphere.jpg?s=1024x1024&w=is&k=20&c=o0xAm_gUVT-VSG_AFlkuoWm6AUvxqVEoCzlhXwMDcB8=" className="App-logo" alt="logo" />
+        <img src="https://cdn.pixabay.com/photo/2016/02/10/20/29/circle-1192509_1280.png" className="App-logo" alt="logo" />
         <p>
            Welcome to github actions deployed react app !!!.....
         </p>
